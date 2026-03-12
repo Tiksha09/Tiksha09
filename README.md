@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning CS50 harvard course 
 - 💞️ I’m looking to collaborate on projects related to UIs
-- 📫 How to reach me tikshadhamija@gmail.com
+- 📫 How to reach me tiksha126@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like public speaking
 
