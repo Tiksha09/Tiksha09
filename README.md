@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tiksha09
-- 👀 I’m interested in computer science
-- 🌱 I’m currently learning CS50 harvard course 
-- 💞️ I’m looking to collaborate on projects related to UIs
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently doing hack the box modules
+- 💞️ I’m looking to collaborate on projects related to cybersecurity
 - 📫 How to reach me tiksha126@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i like public speaking
